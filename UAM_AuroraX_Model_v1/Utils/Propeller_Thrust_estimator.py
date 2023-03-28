@@ -339,8 +339,6 @@ class PropellerThrust_BET_MT_Handler2(object):
         Thrust                     = self.__eta * 2 * vi * rho * self.__area * Vprime
         
         return Thrust
-        
-        
     
 
 
